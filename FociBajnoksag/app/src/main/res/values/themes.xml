@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FociBajnoksag" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorPrimaryVariant">@color/my_light_primary_variant</item>
+        <item name="colorOnPrimary">@color/my_light_on_primary</item>
+        <item name="colorSecondary">@color/my_light_secondary</item>
+        <item name="colorOnSecondary">@color/my_light_on_secondary</item>
+    </style>
+
+    <style name="Theme.FociBajnoksag" parent="Base.Theme.FociBajnoksag" />
+
+    <!-- Colors used in the app theme -->
+    <color name="my_light_primary">#2F4099</color>
+    <color name="my_light_primary_variant">#1A237E</color> <!-- A darker shade of primary color -->
+    <color name="my_light_on_primary">#FFFFFF</color> <!-- Typically used for text on primary color -->
+    <color name="my_light_secondary">#4CAF50</color> <!-- Secondary color for your theme -->
+    <color name="my_light_on_secondary">#FFFFFF</color> <!-- Typically used for text on secondary color -->
+</resources>

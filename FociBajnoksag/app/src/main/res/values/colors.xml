@@ -1,0 +1,18 @@
+<resources>
+    <!-- Alapszínek -->
+    <color name="colorPrimary">#1E88E5</color> <!-- Világoskék -->
+    <color name="colorPrimaryVariant">#1565C0</color> <!-- Mélykék -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Fehér szöveg a primáron -->
+
+    <!-- Állapotsáv színe -->
+    <color name="colorPrimaryDark">#0D47A1</color>
+
+    <!-- Akcentusszín -->
+    <color name="colorAccent">#03A9F4</color> <!-- Világosabb kék -->
+
+    <!-- Alapértelmezett háttér és szövegszín -->
+    <color name="colorBackground">#E3F2FD</color> <!-- Nagyon világos kék háttér -->
+    <color name="colorOnBackground">#000000</color>
+    <color name="blueBackground">#2196F3</color>
+    <color name="textPrimary">#FFFFFF</color>
+</resources>

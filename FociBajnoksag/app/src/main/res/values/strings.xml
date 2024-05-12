@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">FociBajnoksag</string>
+<string-array name="homeName">
+    <item>ARSENAL</item>
+    <item>REAL MADRID</item>
+    <item>MANCHESTER CITY</item>
+    <item>DORTMUND</item>
+    <item>ATLETICO MADRID</item>
+    <item>BARCELONA</item>
+    <item>PSG</item>
+    <item>BAYERN MÜNCHEN</item>
+</string-array>
+<string-array name="awayName">
+    <item>BAYERN MÜNCHEN</item>
+    <item>MANCHESTER CITY</item>
+    <item>REAL MADRID</item>
+    <item>ATLETICO MADRID</item>
+    <item>DORTMUND</item>
+    <item>PSG</item>
+    <item>BARCELONA</item>
+    <item>ARSENAL</item>
+
+</string-array>
+<string-array name="homePts">
+    <item>2</item>
+    <item>2</item>
+    <item>2</item>
+    <item>1</item>
+    <item>1</item>
+    <item>4</item>
+    <item>1</item>
+    <item>4</item>
+</string-array>
+<string-array name="awayPts">
+    <item>2</item>
+    <item>1</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>3</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+<string-array name="date">
+    <item>04.11</item>
+    <item>04.16</item>
+    <item>04.20</item>
+    <item>04.24</item>
+    <item>04.11</item>
+    <item>04.16</item>
+    <item>04.20</item>
+    <item>04.24</item>
+</string-array>
+
+<array name="homeImg">
+    <item>@drawable/arsenal</item>
+    <item>@drawable/realmadrid</item>
+    <item>@drawable/manchestercity</item>
+    <item>@drawable/dortmund</item>
+    <item>@drawable/atletico</item>
+    <item>@drawable/barcelona</item>
+    <item>@drawable/psg</item>
+    <item>@drawable/bayern</item>
+</array>
+<array name="awayImg">
+    <item>@drawable/bayern</item>
+    <item>@drawable/manchestercity</item>
+    <item>@drawable/realmadrid</item>
+    <item>@drawable/atletico</item>
+    <item>@drawable/dortmund</item>
+    <item>@drawable/psg</item>
+    <item>@drawable/barcelona</item>
+    <item>@drawable/arsenal</item>
+
+</array>
+
+
+<string-array name="limit">
+    <item>1</item>
+    <item>5</item>
+    <item>10</item>
+    <item>Össz.</item>
+</string-array>
+<string-array name="rendezes">
+    <item>Csök.</item>
+    <item>Növ.</item>
+</string-array>
+</resources>
